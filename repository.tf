@@ -8,7 +8,7 @@
     }
 
     provider "github" {
-      token = "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" # Replace with your actual token or use a variable/environment variable
+      token = "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" # Replace with your actual token or use a variable/environment variable
     }
 
     resource "github_repository" "example_repo" {
